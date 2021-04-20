@@ -1,0 +1,4 @@
+**/*.js
+serviceWorker.ts
+react-app.env.d.ts
+tsconfig.json
